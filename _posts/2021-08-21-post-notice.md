@@ -1,15 +1,16 @@
 ---
-title: "Post: Notice"
+title: "개발 블로그 첫 게시글"
 categories:
-  - Post Formats
+  - 생각
 tags:
-  - Post Formats
-  - notice
+  - 생각
 ---
 
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
+개발자 윤홍찬의 개발 블로그 첫 게시글 입니다. 
 
-When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
+앞으로 배워가는 기술과 프로젝트에 대해서 서술해 볼 예정입니다.
+
+첫 게시글 기념으로 다양한 마크다운 예제들을 올려보았습니다.
 
 **Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
 {: .notice}
